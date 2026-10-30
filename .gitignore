@@ -1,0 +1,22 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Configuraciones locales de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Imágenes pesadas / datos gigantes (descomenta si aplica)
+data/raw_heavy_data/
+
+# Imatges i arxius generats en aplicar els scripts (la ruta serà la carpeta results/)
+results/*
+!results/.gitkeep
