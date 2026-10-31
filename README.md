@@ -6,7 +6,7 @@ This is the official repository of:
 method for non-uniform lighting conditions. Martinez-Navarro, B.; Munoz-Pandiella, I.; Bosch, C.; Andujar, C. Journal on Computing and Cultural Heritage. 2026.
 
 ![Teaser](doc/teaser.jpg)
-Image of Santa Eulàlia d'Estaon absis, in the Museu Nacional d'Art de Catalunya.
+Image of *Santa Eulàlia d'Estaon* absis, in the *Museu Nacional d'Art de Catalunya*.
 
 ## Overview
 This repository contains the source code and datasets used to evaluate our reflectance-based segmentation method, designed specifically for non-uniform illumination conditions. It also includes the code and datasets for the baseline methods used for comparison. All methods are applied to two distinct image datasets: a custom-built test scene created specifically for this experiment and real-world Romanesque mural paintings captured under museum conditions.
