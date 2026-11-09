@@ -35,7 +35,7 @@ The following segmentation approaches are implemented and evaluated in this proj
 
 - Our poposed method: it identifies pixels sharing the same reflectance as a region of interest, independently of shading, providing a robust tool to select, analyze, or edit regions of similar reflectance. It is based on the analysis of chromaticity variations under different light intensities across various image processing pipelines
 
-- Single pixel classifiers: Nearest Neighbors, Naive Bayes, Decision Tree, RBF-SVM, all adapted from the official "Classifier comparison" example in scikit-learn.Original Code Authors: Gaël Varoquaux and Andreas Müller; modified for documentation by Jaques Grobler.
+- Single pixel classifiers: Nearest Neighbors, Naive Bayes, Decision Tree, RBF-SVM, all adapted from the official "Classifier comparison" example in scikit-learn. Original Code Authors: Gaël Varoquaux and Andreas Müller; modified for documentation by Jaques Grobler.
 
 - Fuzzy C-Means (FCM): A fuzzy clustering algorithm for soft image segmentation.
 
@@ -49,7 +49,7 @@ The following segmentation approaches are implemented and evaluated in this proj
 
     Bell et al. (2014): https://github.com/seanbell/intrinsic
 
-    Careaga en al (2023): https://github.com/compphoto/Intrinsic
+    Careaga et al (2023): https://github.com/compphoto/Intrinsic
 
 
 ## Requirements
